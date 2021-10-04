@@ -15,8 +15,8 @@ switch ($num) {
     echo "<br>";
    
   case 10:
-        echo $num/2;
-        echo "<br>";
+     echo $num/2;
+     echo "<br>";
        
 }
 
